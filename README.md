@@ -1,2 +1,7 @@
 # SampleChatApp
 このプロジェクトはQiita記事「SwiftUIとFirebaseを使って簡単なチャットアプリを作る」の写経です
+
+チャットアプリは最初にユーザー名を入力しチャット画面に入ると自分とそれ以外のユーザーで区別されたメッセージ一覧が表示されます。
+今回は、ユーザー認証などありません。単純にCloud Firestoreを読み書きしてチャットします。
+
+[SwiftUIとFirebaseを使って簡単なチャットアプリを作る](https://qiita.com/From_F/items/85ae490283c11c6f795f)
