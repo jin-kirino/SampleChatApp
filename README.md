@@ -1,0 +1,2 @@
+# SampleChatApp
+このプロジェクトはQiita記事「SwiftUIとFirebaseを使って簡単なチャットアプリを作る」の写経です
